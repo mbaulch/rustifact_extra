@@ -1,0 +1,12 @@
+[package]
+name = "jagged"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+rustifact = "0.9"
+rustifact_extra = { path = "../../" }
+
+[dependencies]
+rustifact = "0.9"
+rustifact_extra = { path = "../../" }
