@@ -5,7 +5,7 @@
 [docs]: https://docs.rs/rustifact_extra/badge.svg
 [docs.rs]: https://docs.rs/rustifact_extra
 
-In future, this crate may provide other extensions to [Rustifact]{https://crates.io/crates/rustifact}, but for now,
+In future, this crate may provide other extensions to [Rustifact](https://crates.io/crates/rustifact), but for now,
 it serves to provide jagged array support.
 
 # Motivation
