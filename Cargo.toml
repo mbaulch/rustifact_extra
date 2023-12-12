@@ -2,6 +2,9 @@
 name = "rustifact_extra"
 version = "0.1.0"
 edition = "2021"
+description = "Extra features for Rustifact"
+license = "MPL-2.0"
+repository = "https://github.com/mbaulch/rustifact_extra"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
