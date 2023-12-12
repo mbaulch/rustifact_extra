@@ -1,4 +1,4 @@
-# Rustifact extras &emsp; [![Build Status]][actions] [![Latest Version]][crates.io] [![docs]][docs.rs]
+# Rustifact extras &emsp; [![Latest Version]][crates.io] [![docs]][docs.rs]
 
 [Latest Version]: https://img.shields.io/crates/v/rustifact_extra.svg
 [crates.io]: https://crates.io/crates/rustifact_extra
